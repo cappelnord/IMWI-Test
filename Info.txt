@@ -1,4 +1,4 @@
-Dies ist kleiner cooler ein Test!
+Don't be a git who doesn't know git!
 
 ABCDEFGHIJKLMNOPQRETZ
 
