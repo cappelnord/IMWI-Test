@@ -5,5 +5,5 @@ New Line!
 ABCDEFGHIJKLMNOPQRETZ
 
 
-Hallo, dies ist eine coole Geschichte! Was geht?
+Hello, this is a cool story!
 ABCDEFG 12345
