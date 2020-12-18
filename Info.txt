@@ -2,10 +2,10 @@ Erste Zeile
 
 Don't be a git who doesn't know git!
 
-Neue Zeile!
+New Line!
 
 ABCDEFGHIJKLMNOPQRETZ
 
 
-Hallo, dies ist eine coole Geschichte! Was geht?
+Hello, this is a cool story!
 ABCDEFG 12345
