@@ -1,3 +1,5 @@
+First cool line!
+
 Don't be a git who doesn't know git!
 
 New Line!
